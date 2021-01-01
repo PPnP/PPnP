@@ -12,10 +12,4 @@ We are a young team with a strange name that makes beautiful. We combine advance
 
 For more info check our [website](https://ppnp.me).
 
-## Some of our GitHub stats
-
-![](https://github-readme-stats.vercel.app/api?username=PPnP&show_icons=true&count_private=true)
-
-[![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=PPnP&layout=compact)](https://github.com/sd-denisoff/github-readme-stats)
-
 ![Profile views](https://gpvc.arturio.dev/sd-denisoff)
