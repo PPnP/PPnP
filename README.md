@@ -8,7 +8,7 @@
 > [![](https://img.shields.io/badge/frontend-Matvey%20Kottsov-orange)](https://vk.com/kottsovcom 'VK profile')
 > [![](https://img.shields.io/badge/DS%2FML-Denis%20Kozlov-blue)](https://vk.com/dkozl 'VK profile')
 
-We are a young team with a strange name that makes beautiful. We combine advanced development technologies and love for user-centric visuals. Our hometown is Moscow 🇷🇺.
+We are a young team with a strange name that makes beautiful. We combine advanced development technologies and love for user-friendly visuals. Our hometown is Moscow 🇷🇺.
 
 For more info check our [website](https://ppnp.me).
 
