@@ -11,5 +11,3 @@
 We are a young team with a strange name that makes beautiful. We combine advanced development technologies and love for user-friendly visuals. Our hometown is Moscow 🇷🇺.
 
 For more info check our [website](https://ppnp.me).
-
-![Profile views](https://gpvc.arturio.dev/sd-denisoff)
